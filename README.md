@@ -1,6 +1,4 @@
 # Deep Learning Final Report
-Group Members: Amin Kharaghani, Yael Bensoussan, Bowen Chen
-
 
 We used two learning approaches to classify the images with this dataset (RESNET34 and Convolutional Neural Network Autoencoder). Both models were trained on 80% of the data and tested on the remaining 20%. The training and test sets were randomly selected from each classification of the images, in this case, cancer types. 
 
